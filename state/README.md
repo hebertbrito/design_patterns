@@ -22,7 +22,7 @@ Cada objeto terá um conjunto própio de propriedades(STATE) e metodos(regra par
 
 ## Participantes
 
-*<p style="fontweight: bold">Contexto<p/><p>Alterador de cores<P/>
-    * deixar a interface oferecer suporte a clientes do serviço
-    * mantém a referencia de um objeto de estado no qual demonstra o estado atual
-    * permissão para que oe stado possam fazer alterações de um estado diferente do atual.
+* Contexto - Alterador de cores
+    * Deixar a interface oferecer suporte a clientes do serviço
+    * Mantém a referencia de um objeto de estado no qual demonstra o estado atual
+    * Permissão para que oe stado possam fazer alterações de um estado diferente do atual
