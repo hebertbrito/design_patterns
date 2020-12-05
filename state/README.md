@@ -13,7 +13,8 @@ Sua intenção é definir que pode haver uma possibilidade de mudança dentro de
 Fácil utilização, simplificação de codigo e boa legibilidade
 
 ## Aplicabilidade
-Cada objeto terá um conjunto própio de propriedades(STATE) e metodos(regra para transição de estado aceitável). Como são frenquemente implementadas com o padrão de estado definido, seus objetos de estado serão alterados por outro quando ocorrer uma mudança de dados no estado.
+Permite compor hierarquia de classes de estado, reduzindo a duplicação.
+Extraia todo o código espefcifico do estado no qual o conjunto das classes distindas. Com o resultado final, poderá adicionar ou alterar estados de forma independente, fazendo com que o custo de manunteção seja reduzido.
 
 ## Estrutura
 <img src="structure_state.png"
