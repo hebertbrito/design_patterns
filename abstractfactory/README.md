@@ -19,8 +19,8 @@ Utilizado quando se precisa utilizar varias familias de produtos relacionados.
 É uma interface de criação de objetos, contando que seu codigo possa criar objetos por meio da interfacer, nao há necessidade em se preocupar em gerar outra variante errada para um produto que nao corresponde a esté tipo em seu sistema.
 
 ## Estrutura
-<img src="structure_state.png"
-     alt="Structure State Pattern"
+<img src="abstractfactory_structure.png"
+     alt="Structure Abstract Factory Pattern"
      style="float: left; margin-right: 10px;" />
      
 ## Participantes
@@ -34,3 +34,5 @@ Utilizado quando se precisa utilizar varias familias de produtos relacionados.
 * Produto Abstrato - não usa em javascript
     * Declara uma interface para produtos que estão sendo gerados.
 
+## Codigo de demonstração
+><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/abstractfactory/abstractFactory.js">Ir para o exemplo</a>
