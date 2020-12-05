@@ -22,12 +22,12 @@ Assinaturas são dinâmicas, portanto os assinantes podem entrar ou sair da list
      style="float: left; margin-right: 10px;" />
      
 ## Participantes
-* Assunto - No codigo
+* Assunto
     * Mantpem lista de observadores. Qualquer numero de objetos Observer tem a capicidade de observar o assunto
     * Faz a implementação na qual uma interface o permite que objetos observadores assinem ou cancelem
     * Faz notificações para os observadores que estão assinados.
-* Observadores - No codigo
+* Observadores
     * Há uma assinatura, em função disto pode ser invocada o Assunto, quando ocorrer uma ação de evento.
 
 ## Codigo de demonstração
-<!-- ><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/state/state.js">Ir para o exemplo</a> -->
+><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/observer/observer.js">Ir para o exemplo</a>
