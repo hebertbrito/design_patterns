@@ -1,5 +1,5 @@
 # Memento
-> Informação sobre este padrão comportamental.
+> Informação sobre este padrão.
 
 ## Classificação
 ```sh
