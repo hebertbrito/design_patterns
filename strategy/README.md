@@ -29,4 +29,6 @@ Isolamento de código, dados interno e as dependências de varios outros algortm
     * Permite clientes alterar estrategias
 * Strategy - representado por JSON Newsletter
     * implementa algoritmo usando estrategia deinterface
-
+    
+## Codigo de demonstração
+><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/strategy/strategy.js">Ir para o exemplo</a>
