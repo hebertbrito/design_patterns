@@ -29,4 +29,6 @@ Cada objeto terá um conjunto própio de propriedades(STATE) e metodos(regra par
     * Encapsulamento de estados e associados a eles.
 
 ## Codigo de demonstração
-><a style="text-decoration: none, color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/state/state.js">Ir para o exemplo</a>
+```sh
+><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/state/state.js">Ir para o exemplo</a>
+```
