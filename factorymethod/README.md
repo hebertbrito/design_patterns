@@ -14,7 +14,6 @@ Evita acoplamento
 Principio de responsabilidade unica
 Principio aberto/fechado
 
-
 ## Aplicabilidade
 Redução de codigo que constrói componentes. Permitir a possibilidade que qualquer pessoa possa substituir um método, alem de estender o mesmo.
 Utilizado quando tem que lidar com grandes objetos que usam muitos recursos.
