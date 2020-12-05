@@ -27,12 +27,12 @@ Utilizado quando tem que lidar com grandes objetos que usam muitos recursos.
 ## Participantes
 * Gerador - Factory
     * Fabrica objeto cria novos produtos
-    * implementa fabrica de metodos no quais retorna produtos recém-criados
+    * Implementa fabrica de metodos no quais retorna produtos recém-criados
 * Produto abstrato - não usa em javascript
-    * declara interface para produtos
+    * Declara interface para produtos
 * Produto Concreto - animals
-    * produto esta sendo criado
-    * todos os produtos podem suportar a mesma interface(metodos e propriedades)
+    * Produto esta sendo criado
+    * Todos os produtos podem suportar a mesma interface(metodos e propriedades)
 
 ## Codigo de demonstração
 ><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/factorymethod/factoryMethod.js">Ir para o exemplo</a>
