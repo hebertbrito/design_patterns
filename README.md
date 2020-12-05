@@ -1,2 +1,2 @@
 # Modelos de Padrões de Projeto
-> Nas pastas a seguir terá informação e exemplo de um padrão.
+> Nas pastas acima contém um nome de um padrão e um arquivo, e um texto sobre informações do mesmo.
