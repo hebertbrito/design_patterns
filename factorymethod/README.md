@@ -7,7 +7,7 @@ Padrão de Criação
 ```
 
 ## Intenção
-Definir de forma que o modo um centro de criação para um tipo d eobjeto no qual nao te conhecimento do tipo concreto para ser usado.
+Definir de forma que o modo um centro de criação para um tipo de objeto no qual nao te conhecimento do tipo concreto para ser usado.
 
 ## Motivações
 Evita acoplamento
