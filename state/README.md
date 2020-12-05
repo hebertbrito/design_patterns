@@ -14,7 +14,7 @@ Fácil utilização, simplificação de codigo e boa legibilidade
 
 ## Aplicabilidade
 Permite compor hierarquia de classes de estado, reduzindo a duplicação.
-Extraia todo o código espefcifico do estado no qual o conjunto das classes distindas. Com o resultado final, poderá adicionar ou alterar estados de forma independente, fazendo com que o custo de manunteção seja reduzido.
+Extraia todo o código específico do estado no qual o conjunto das classes distindas. Com o resultado final, poderá adicionar ou alterar estados de forma independente, fazendo com que o custo de manunteção seja reduzido.
 
 ## Estrutura
 <img src="structure_state.png"
