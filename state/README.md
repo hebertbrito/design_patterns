@@ -1,7 +1,10 @@
 # State
-> Information about this behavioral patterns.
+> Informação sobre este padrão comportamental.
 
-## Classification
+## Classificação
 ```sh
-Behavioral patterns
+Padrão Comportalmental
 ```
+
+## Intenção
+Sua intenção é definir que pode haver uma possibilidade de mudança dentro de um comportamento, e quando isso ocorrer ele mudará para as informações que foram alteradas.
