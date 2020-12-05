@@ -19,12 +19,14 @@ Cada objeto terá um conjunto própio de propriedades(STATE) e metodos(regra par
 <img src="structure_state.png"
      alt="Structure State Pattern"
      style="float: left; margin-right: 10px;" />
-
+     
 ## Participantes
-
 * Contexto - Alterador de cores
     * Deixar a interface oferecer suporte a clientes do serviço
     * Mantém a referencia de um objeto de estado no qual demonstra o estado atual
     * Permissão para que oe stado possam fazer alterações de um estado diferente do atual
 * Estado - em código
     * Encapsulamento de estados e associados a eles.
+
+## Codigo de demonstração
+><a href="https://github.com/hebertbritto/design_patterns/blob/main/state/state.js">link text</a>
