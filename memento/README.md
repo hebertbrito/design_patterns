@@ -33,4 +33,4 @@ Torna o próprio objeto responsável por gerar uma copia de seu estado. Nenhum o
     * Apenas em um local definido; nao é possivel fazer alterações nos dados.
 
 ## Codigo de demonstração
-<!-- ><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/observer/observer.js">Ir para o exemplo</a> -->
+><a style="text-decoration: none; color: #f0f0f0f0" href="https://github.com/hebertbritto/design_patterns/blob/main/memento/memento.js">Ir para o exemplo</a>
