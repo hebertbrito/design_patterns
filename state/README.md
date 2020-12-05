@@ -19,3 +19,10 @@ Cada objeto terá um conjunto própio de propriedades(STATE) e metodos(regra par
 <img src="structure_state.png"
      alt="Structure State Pattern"
      style="float: left; margin-right: 10px;" />
+
+## Participantes
+
+*<p style="fontweight: bold">Contexto<p/><p>Alterador de cores<P/>
+    * deixar a interface oferecer suporte a clientes do serviço
+    * mantém a referencia de um objeto de estado no qual demonstra o estado atual
+    * permissão para que oe stado possam fazer alterações de um estado diferente do atual.
